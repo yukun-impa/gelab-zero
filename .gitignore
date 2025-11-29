@@ -1,0 +1,5 @@
+config.yaml
+*/*.pyc
+tmp_screenshot
+output/
+running_log
