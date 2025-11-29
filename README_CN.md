@@ -62,10 +62,18 @@
 ###  推荐 - 科幻电影
 任务：帮我找一些最近好看的科幻电影
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_2.gif" alt="Sci-Fi Movies Recommendation Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 点击查看演示视频](./images/video_2.mp4)**
 
 ###  推荐 - 旅游目的地
 任务：帮我找一个周末适合带孩子去的地方
+
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_4.gif" alt="Travel Destination Recommendation Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
 
 **[📹 点击查看演示视频](./images/video_4.mp4)**
 
@@ -73,16 +81,28 @@
 ###  实用任务 - 领取补贴
 任务：在企业福利平台上领取餐补
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_3.gif" alt="Claim Meal Vouchers Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 点击查看演示视频](./images/video_3.mp4)**
 
 ### 实用任务 - 地铁线路查询
 任务：检查地铁 1 号线是否正常运行，然后导航到最近的 1 号线地铁站入口
+
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_5.gif" alt="Metro Line Query Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
 
 **[📹 点击查看演示视频](./images/video_5.mp4)**
 
 
 ### 复杂任务 - 多商品购物
 任务：在饿了么上前往最近的盒马鲜生门店购买：红颜草莓 300g、秘鲁比安卡蓝莓 125g（果径18mm+）、当季鲜黄土豆 500g、贝贝南瓜 750g、盒马大颗粒虾滑、2 瓶盒马醇豆浆（黑豆）300ml、小王子澳洲坚果可可脆 120g、盒马菠菜手擀面、盒马五香酱牛肉、5 袋好欢螺柳州螺蛳粉（加辣加臭版）400g、m&m's 牛奶巧克力豆 100g
+
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_1.gif" alt="Multi-Item Shopping Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
 
 **[📹 点击查看演示视频](./images/video_1.mp4)**
 
@@ -95,10 +115,18 @@
 ### 复杂任务 - 条件搜索
 任务：在淘宝上找一双 37 码的白色帆布鞋，价格在 100 元以内，然后收藏第一个符合条件的商品
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_7.gif" alt="Conditional Search Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 点击查看演示视频](./images/video_7.mp4)**
 
 ### 复杂任务 - 在线测验
 任务：去百词斩帮我完成背单词任务
+
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_8.gif" alt="Online Quiz Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
 
 **[📹 点击查看演示视频](./images/video_8.mp4)**
 

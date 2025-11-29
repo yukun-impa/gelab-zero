@@ -58,17 +58,32 @@ For Agent developers, this infrastructure enables rapid testing of new ideas and
 
 Task: Help me find any good recent sci-fi movies
 
+<!-- gif -->
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_2.gif" alt="Sci-Fi Movies Recommendation Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 Click to view demo video](./images/video_2.mp4)**
+
 
 ### Recommendation - Travel Destination
 
 Task: Help me find a place where I can take my kids on the weekend
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_4.gif" alt="Travel Destination Recommendation Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 Click to view demo video](./images/video_4.mp4)**
+
 
 ### Practical Task - Claim Subsidy
 
 Task: Claim meal vouchers on the enterprise welfare platform
+
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_3.gif" alt="Claim Meal Vouchers Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
 
 **[📹 Click to view demo video](./images/video_3.mp4)**
 
@@ -76,17 +91,30 @@ Task: Claim meal vouchers on the enterprise welfare platform
 
 Task: Check if Metro Line 1 is operating normally, then navigate to the nearest entrance of Line 1 metro station
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_5.gif" alt="Metro Line Query Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 Click to view demo video](./images/video_5.mp4)**
 
 ### Complex Task - Multi-Item Shopping
 
 Task: Go to the nearest Hema Fresh Store on Ele.me and purchase: Red strawberries 300g, Peruvian Bianca blueberries 125g (18mm diameter), seasonal fresh yellow potatoes 500g, sweet baby pumpkin 750g, Hema large grain shrimp sliders, 2 bottles of Hema pure black soy milk 300ml, Little Prince macadamia nut cocoa crisp 120g, Hema spinach noodles, Hema five-spice beef, 5 bags of Haohuan snail Liuzhou river snail rice noodles (extra spicy extra smelly) 400g, m&m's milk chocolate beans 100g
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_1.gif" alt="Multi-Item Shopping Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 Click to view demo video](./images/video_1.mp4)**
+
 
 ### Complex Task - Information Retrieval
 
 Task: Search for 'how to learn financial management' on Zhihu and view the first answer with over 10k likes
+
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_6.gif" alt="Information Retrieval Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
 
 **[📹 Click to view demo video](./images/video_6.mp4)**
 
@@ -94,13 +122,22 @@ Task: Search for 'how to learn financial management' on Zhihu and view the first
 
 Task: Find a pair of white canvas shoes in size 37 on Taobao, priced under 100 yuan, then add the first item that meets the criteria to favorites
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_7.gif" alt="Conditional Search Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 Click to view demo video](./images/video_7.mp4)**
 
 ### Complex Task - Online Quiz
 
 Task: Go to Baicizhan and help me complete the vocabulary learning task
 
+<div style="display: flex; align-items: center; justify-content: center; width: 80%; margin: 0 auto;">
+  <img src="images/video_8.gif" alt="Online Quiz Demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+</div>
+
 **[📹 Click to view demo video](./images/video_8.mp4)**
+
 
 ## 📊 AndroidDaily: A Self-Built Benchmark Close to Daily Life
 
