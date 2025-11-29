@@ -344,7 +344,6 @@ AN2CVB4C28000731        device
 
 If you do not see any devices, please check if the USB cable and the USB debugging settings on your phone are correctly enabled. When connecting the phone for the first time, an authorization prompt may pop up on the phone; simply select "Allow." As shown in the image below:
 
-<!-- 50% size -->
 
 ![Authorization Prompt](images/developer_mode_auth.png){width=20%}
 
