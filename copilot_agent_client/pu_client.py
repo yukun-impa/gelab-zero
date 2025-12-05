@@ -11,7 +11,7 @@ import io
 
 from tools.image_tools import draw_points, make_b64_url
 
-from copilot_front_end.mobile_action_helper import capture_screenshot, dectect_screen_on
+from copilot_front_end.mobile_action_helper import capture_screenshot, dectect_screen_on, press_home_key
 
 from copilot_front_end.mobile_action_helper import init_device, open_screen
 from copilot_front_end.pu_frontend_executor import act_on_device, uiTars_to_frontend_action
@@ -86,7 +86,7 @@ def reply_info_action(current_image_url, task, info_action, model_provider, mode
 # rollout config
 # device info
 # def evaluate_task_on_device(agent_server, device_info, task, frontend_action_converter, ask_action_function_func, max_steps = 40, delay_after_capture = 2):
-def evaluate_task_on_device(agent_server, device_info, task, rollout_config, extra_info = {}, reflush_app=True, auto_reply = False):
+def evaluate_task_on_device(agent_server, device_info, task, rollout_config, extra_info = {}, reflush_app=True, auto_reply = False, reset_environment=True):
     """
     Evaluate a task on a device using the provided frontend action converter and action function.
 
@@ -96,6 +96,10 @@ def evaluate_task_on_device(agent_server, device_info, task, rollout_config, ext
     device_id = device_info['device_id']
     open_screen(device_id)
     init_device(device_id)
+
+
+    if reset_environment:
+        press_home_key(device_id, print_command=True)
 
     task, task_type = task, rollout_config['task_type']
 

@@ -101,7 +101,7 @@ def init_device(device_id, print_command = False):
     else:
         print("yadb is already installed on the device.")
 
-    press_home_key(device_id, print_command=print_command)
+    # press_home_key(device_id, print_command=print_command)
 
 def init_all_devices():
     """
