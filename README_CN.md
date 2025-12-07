@@ -203,7 +203,7 @@
 如果你还没有安装 Python 3.12+ 环境，可以参考以下步骤进行安装：
 出于商业友好性和跨平台支持的考虑，我们推荐使用 miniforge 来安装和管理 Python 环境。官方网址：https://github.com/conda-forge/miniforge
 
-- **Windows 用户**：
+- **Windows 用户**： **必须使用powershell**
 
 1. 直接下载并手动安装miniforge 即可。 参加：https://github.com/conda-forge/miniforge Install章节。安装过程中需要注意勾选，将conda 加入PATH 的选项，以确保conda 能够被正确激活。
 

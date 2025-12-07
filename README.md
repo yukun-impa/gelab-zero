@@ -221,7 +221,7 @@ For commercial friendliness and cross-platform support, we recommend using minif
 
 <!-- EN -->
 
-- **Windows Users**:
+- **Windows Users**: **MUST USE powershell**
 
 1. Directly download and manually install Miniforge. Refer to the **Install** section at: https://github.com/conda-forge/miniforge. During installation, ensure to check the option to add Conda to the **PATH** environment variable to guarantee proper activation of Conda.
 
